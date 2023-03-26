@@ -1,4 +1,5 @@
-### Hi there 👋
+
+[![Lennart's GitHub stats](https://github-readme-stats.vercel.app/api?username=LennartVorderbrueggen)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LennartVorderbrueggen/LennartVorderbrueggen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
